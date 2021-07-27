@@ -204,6 +204,7 @@
 }
 
 .feynman__image {
+  background: url(../images/feynman.png) no-repeat;
   position: absolute;
   bottom: 0;
   left: 0;
